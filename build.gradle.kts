@@ -45,6 +45,4 @@ tasks.register<Exec>("generateCapCache") {
     println(arguments.joinToString(" "))
 
     commandLine(*arguments)
-
-//    TODO()
 }
