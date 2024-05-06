@@ -2,7 +2,7 @@ plugins {
     kotlin("jvm") version "1.9.21"
 }
 
-group = "org.utopia-rise"
+group = "com.utopia-rise"
 version = "1.0.0-SNAPSHOT"
 
 repositories {
